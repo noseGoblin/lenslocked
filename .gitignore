@@ -1,1 +1,4 @@
-/lenslocked
+# Go build artifacts
+lenslocked
+# Go build artifacts
+bin/
