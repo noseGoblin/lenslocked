@@ -30,7 +30,7 @@ func faqHandler(w http.ResponseWriter, r *http.Request) {
 		</li>
 		<li>
 			<b>How do I contact support?</b>
-			Email us - <a href=\"mailto:jacobfullstack@proton.me\">jacobfullstack@proton.me</a>
+			Email us - <a href="mailto:jacobfullstack@proton.me">jacobfullstack@proton.me</a>
 		</li>
 	</ul>
 	`)
